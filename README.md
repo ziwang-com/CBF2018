@@ -14,8 +14,7 @@ It is expected that the 2020 edition of the CBF2020， will launch 10,000 sets o
 "China Big Font" adopts the release mode of individual free and commercial charge.
 For more information, see http://ziwang.com/
 ------------------
-
-![CBF2018肥仔体系列](https://github.com/ziwang-com/CBF2018/blob/master/%E3%80%8A%E4%B8%AD%E5%8D%8E%E5%A4%A7%E5%AD%97%E5%BA%93%E3%80%8B2018%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%A0%E5%90%88%E9%9B%864425%E6%AC%BE/FAT3.jpg)
+![超Q超萌的zw肥仔体]()
 
 2018版《中华大字库》发布说明 http://ziwang.com/?p=258
 
@@ -36,4 +35,9 @@ CBF《中华大字库》2018版，内部测试版：共有5115款，270多个系
 实际发布时，为简化结构，省略了群组环节，直接使用单一的系列分组模式。
 
 CBF《中华大字库》2018版，只是2012版的Truetype简单移植版本，部分优化和复杂模块，需要在二期项目中才能完成。
+
+字王网站：http://ziwang.com/
+CBF中华大字库 QQ群号：655402626
+
+
 
