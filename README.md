@@ -14,8 +14,9 @@ It is expected that the 2020 edition of the CBF2020， will launch 10,000 sets o
 "China Big Font" adopts the release mode of individual free and commercial charge.
 For more information, see http://ziwang.com/
 ------------------
-![超Q超萌的zw肥仔体](https://github.com/ziwang-com/CBF2018/blob/master/image/fat001.png)
 超Q超萌的zw肥仔体
+![超Q超萌的zw肥仔体](https://github.com/ziwang-com/CBF2018/blob/master/image/fat001.png)
+
 
 ![来自异世界的鱼骨体.系列](https://github.com/ziwang-com/CBF2018/blob/master/image/fishbone.png)
 来自异世界的鱼骨体.系列
