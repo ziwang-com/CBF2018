@@ -66,7 +66,6 @@ zw-SDK智能平台，独创Log-AI-NET（基于逻辑的神经网络算法模型�
 CBF中华大字库 QQ群号：655402626
 
 ![《中华大字库》94版光碟包装封面](https://github.com/ziwang-com/CBF2018/blob/master/image/4A_PAGE.jpg)
-![zw百字工程纪念#1](https://github.com/ziwang-com/CBF2018/blob/master/image/%E5%AD%97%E7%8E%8B%E7%99%BE%E5%AD%97%E5%B7%A5%E7%A8%8B2016%E4%B8%AD%E7%A7%8B%E7%BA%AA%E5%BF%B5%E5%89%AF%E6%9C%AC.png)
 ![zw百字工程纪念#2](https://github.com/ziwang-com/CBF2018/blob/master/image/f100x2.png)
 
 
