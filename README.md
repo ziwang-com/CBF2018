@@ -15,6 +15,8 @@ It is expected that the 2020 edition of the CBF2020， will launch 10,000 sets o
 For more information, see http://ziwang.com/
 ------------------
 
+![CBF2018肥仔体系列](https://github.com/ziwang-com/CBF2018/blob/master/%E3%80%8A%E4%B8%AD%E5%8D%8E%E5%A4%A7%E5%AD%97%E5%BA%93%E3%80%8B2018%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%A0%E5%90%88%E9%9B%864425%E6%AC%BE/FAT3.jpg)
+
 2018版《中华大字库》发布说明 http://ziwang.com/?p=258
 
 《中华大字库》CBF2018版·字体样张 http://ziwang.com/?p=346
