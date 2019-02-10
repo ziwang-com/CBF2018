@@ -14,7 +14,11 @@ It is expected that the 2020 edition of the CBF2020， will launch 10,000 sets o
 "China Big Font" adopts the release mode of individual free and commercial charge.
 For more information, see http://ziwang.com/
 ------------------
-![超Q超萌的zw肥仔体]()
+![超Q超萌的zw肥仔体](https://github.com/ziwang-com/CBF2018/blob/master/image/fat001.png)
+![来自异世界的鱼骨体.系列](https://github.com/ziwang-com/CBF2018/blob/master/image/fishbone.png)
+
+
+
 
 2018版《中华大字库》发布说明 http://ziwang.com/?p=258
 
@@ -38,6 +42,11 @@ CBF《中华大字库》2018版，只是2012版的Truetype简单移植版本，�
 
 字王网站：http://ziwang.com/
 CBF中华大字库 QQ群号：655402626
+
+![《中华大字库》94版光碟包装封面](https://github.com/ziwang-com/CBF2018/blob/master/image/4A_PAGE.jpg)
+![zw百字工程纪念#1](https://github.com/ziwang-com/CBF2018/blob/master/image/%E5%AD%97%E7%8E%8B%E7%99%BE%E5%AD%97%E5%B7%A5%E7%A8%8B2016%E4%B8%AD%E7%A7%8B%E7%BA%AA%E5%BF%B5%E5%89%AF%E6%9C%AC.png)
+![zw百字工程纪念#2](https://github.com/ziwang-com/CBF2018/blob/master/image/f100x2.png)
+
 
 
 
